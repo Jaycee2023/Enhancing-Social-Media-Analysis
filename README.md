@@ -1,6 +1,9 @@
 # Enhancing-Social-Media-Analysis
 ### Enhancing Brand Reputation with cutting-edge Social Media Monitoring
 
+## Table of Content
+1. [Business Introuction](business-introduction)
+
 # Business Introduction
 AfriTech Electronics Ltd. is a growing leader in the global consumer electronics sector, known for its innovative range of smartphones, tablets, and wearable technology.
 Headquartered in the United States, the company has expanded to a team of 200 dedicated employees and achieved an annual revenue of $2M in 2022.
