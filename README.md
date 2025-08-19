@@ -85,12 +85,12 @@ CustomerID: A unique identifier for each customer.
 ➢ NPS Response: The Net Promoter Score (NPS) response associated with the post.
 
 # Tools 
-SQL: will be used to efficiently query, analyze, and
-manage the underlying dataset, enabling us gain
+SQL: will be used to efficiently query, analyze efficiently, and analyse
+manage the underlying dataset, enabling us to gain
 insights and make data-driven decisions quickly
 and effectively.
 
-Power BI :will be used to visually analyze and
+Power BI: will be used to visually analyse and
 interpret the dataset, enabling us to create
 interactive dashboards and reports that provide
 meaningful insights and support data-driven
