@@ -36,3 +36,13 @@ escalate.
 customer sentiment, enabling data-driven decision-making
 - Enhanced Marketing: Consistent messaging and understanding customer preferences can lead to
 more effective marketing campaigns.
+
+# Aim for the project
+- Monitor Social Media Conversations: Continuously monitor social media platforms for mentions of the
+company and its products.
+- Sentiment Analysis: Analyze sentiment in social media conversations to identify positive and negative
+trends.
+- Customer Issue Resolution: Identify and prioritize customer complaints and issues for swift resolution
+with main focus on unresolved posts.
+- Crises Detection: Implement early warning systems to detect potential crises and take proactive measures
+focusing on unresolved posts.
