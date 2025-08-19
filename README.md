@@ -46,3 +46,36 @@ trends.
 with main focus on unresolved posts.
 - Crises Detection: Implement early warning systems to detect potential crises and take proactive measures
 focusing on unresolved posts.
+
+# Data Description 
+CustomerID: A unique identifier for each customer.
+➢ Customer Name: The name of the customer.
+➢ Region: The region or state associated with the customer.
+➢ Age: The age of the customer.
+➢ Income: The income of the customer.
+➢ CustomerType: The type of customer, which can be 'New', 'Returning', or 'VIP'.
+➢ CustomerID: A reference to the customer who made the transaction.
+➢ Transaction Year: The year in which the transaction occurred (e.g., 2021, 2022, 2023).
+➢ Transaction Date: The date of the transaction.
+➢ Product Purchased: The product purchased (e.g., 'Smartphone', 'Tablet', 'Laptop', 'Smartwatch').
+➢ Purchase Amount: The amount spent on the purchase.
+➢ Product Recalled: A boolean indicating whether the purchased product was recalled.
+➢ Competitor: The competitor associated with the transaction, if any.
+➢ CustomerID: A reference to the customer who interacted on social media.
+➢ Interaction Date: The date of the social media interaction.
+➢ Platform: The social media platform where the interaction occurred (e.g., 'Twitter', 'Facebook',
+'Instagram').
+➢ Post Type: The type of social media post (e.g., 'Text', 'Image', 'Video', 'Link', 'Story').
+➢ Engagement Likes: The number of likes the post received.
+➢ Engagement Shares: The number of shares or retweets the post received.
+➢ Engagement Comments: The number of comments the post received.
+➢ User Followers: The number of followers the user has.
+➢ Influencer Score: A score representing the influence of the user.
+➢ BrandMention: A boolean indicating whether the post mentioned the brand.
+➢ Competitor Mention: A boolean indicating whether the post mentioned a competitor.
+➢ Sentiment: The sentiment of the post, which can be 'Positive', 'Neutral', or 'Negative'.
+➢ Competitor: The competitor mentioned in the post, if any.
+➢ Crisis Event Time: The date of a crisis event mentioned in a negative post.
+➢ First Response Time: The date of the first response to a negative post.
+➢ Resolution Status: A boolean indicating whether the crisis was resolved.
+➢ NPS Response: The Net Promoter Score (NPS) response associated with the post.
