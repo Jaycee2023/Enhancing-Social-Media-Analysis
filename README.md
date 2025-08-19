@@ -79,3 +79,16 @@ CustomerID: A unique identifier for each customer.
 ➢ First Response Time: The date of the first response to a negative post.
 ➢ Resolution Status: A boolean indicating whether the crisis was resolved.
 ➢ NPS Response: The Net Promoter Score (NPS) response associated with the post.
+
+# Tools 
+SQL: will be used to efficiently query, analyze, and
+manage the underlying dataset, enabling us gain
+insights and make data-driven decisions quickly
+and effectively.
+
+Power BI :will be used to visually analyze and
+interpret the dataset, enabling us to create
+interactive dashboards and reports that provide
+meaningful insights and support data-driven
+decision-making efficiently.
+
