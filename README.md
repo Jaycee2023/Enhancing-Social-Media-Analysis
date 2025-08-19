@@ -53,8 +53,8 @@ focusing on unresolved posts.
 
 # Data Description 
 CustomerID: A unique identifier for each customer.
-➢ Customer Name: The name of the customer.
-➢ Region: The region or state associated with the customer.
+1. Customer Name: The name of the customer.
+2. Region: The region or state associated with the customer.
 ➢ Age: The age of the customer.
 ➢ Income: The income of the customer.
 ➢ CustomerType: The type of customer, which can be 'New', 'Returning', or 'VIP'.
