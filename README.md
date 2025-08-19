@@ -3,6 +3,7 @@
 
 ## Table of Content
 1. [Business Introuction](business-introduction)
+2. [Business Proble](business-problem)
 
 # Business Introduction
 AfriTech Electronics Ltd. is a growing leader in the global consumer electronics sector, known for its innovative range of smartphones, tablets, and wearable technology.
