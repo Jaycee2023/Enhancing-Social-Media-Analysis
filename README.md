@@ -44,10 +44,10 @@ more effective marketing campaigns.
 # Aim for the project
 - Monitor Social Media Conversations: Continuously monitor social media platforms for mentions of the
 company and its products.
-- Sentiment Analysis: Analyze sentiment in social media conversations to identify positive and negative
+- Sentiment Analysis: Analyse sentiment in social media conversations to identify positive and negative
 trends.
-- Customer Issue Resolution: Identify and prioritize customer complaints and issues for swift resolution
-with main focus on unresolved posts.
+- Customer Issue Resolution: Identify and prioritise customer complaints and issues for swift resolution
+, with a main focus on unresolved posts.
 - Crises Detection: Implement early warning systems to detect potential crises and take proactive measures
 focusing on unresolved posts.
 
@@ -55,10 +55,10 @@ focusing on unresolved posts.
 CustomerID: A unique identifier for each customer.
 1. Customer Name: The name of the customer.
 2. Region: The region or state associated with the customer.
-➢ Age: The age of the customer.
-➢ Income: The income of the customer.
-➢ CustomerType: The type of customer, which can be 'New', 'Returning', or 'VIP'.
-➢ CustomerID: A reference to the customer who made the transaction.
+3. Age: The age of the customer.
+4. Income: The income of the customer.
+5. CustomerType: The type of customer, which can be 'New', 'Returning', or 'VIP'.
+6. CustomerID: A reference to the customer who made the transaction.
 ➢ Transaction Year: The year in which the transaction occurred (e.g., 2021, 2022, 2023).
 ➢ Transaction Date: The date of the transaction.
 ➢ Product Purchased: The product purchased (e.g., 'Smartphone', 'Tablet', 'Laptop', 'Smartwatch').
