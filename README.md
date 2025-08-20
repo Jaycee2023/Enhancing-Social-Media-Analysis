@@ -60,10 +60,10 @@ CustomerID: A unique identifier for each customer.
 4. Income: The income of the customer.
 5. CustomerType: The type of customer, which can be 'New', 'Returning', or 'VIP'.
 6. CustomerID: A reference to the customer who made the transaction.
-➢ Transaction Year: The year in which the transaction occurred (e.g., 2021, 2022, 2023).
-➢ Transaction Date: The date of the transaction.
-➢ Product Purchased: The product purchased (e.g., 'Smartphone', 'Tablet', 'Laptop', 'Smartwatch').
-➢ Purchase Amount: The amount spent on the purchase.
+7. Transaction Year: The year in which the transaction occurred (e.g., 2021, 2022, 2023).
+8. Transaction Date: The date of the transaction.
+9. Product Purchased: The product purchased (e.g., 'Smartphone', 'Tablet', 'Laptop', 'Smartwatch').
+10. Purchase Amount: The amount spent on the purchase.
 ➢ Product Recalled: A boolean indicating whether the purchased product was recalled.
 ➢ Competitor: The competitor associated with the transaction, if any.
 ➢ CustomerID: A reference to the customer who interacted on social media.
