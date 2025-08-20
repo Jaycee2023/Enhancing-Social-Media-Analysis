@@ -17,7 +17,7 @@ By focusing on key technological trends and maintaining excellence across its pr
 
 # Business Problem
 AfriTech Electronics Ltd. has been facing a growing challenge related to its brand reputation. In recent years,
-the company has encountered several issues such as negative customer reviews, product recalls, and public
+the company has encountered several issues, such as negative customer reviews, product recalls, and public
 relations crises. These issues have led to a decline in customer trust and have affected sales and market share.
 1. Negative Social Media Buzz: The company is experiencing a surge in negative social media
 conversations about its products and customer service. These conversations are damaging its brand
@@ -47,8 +47,7 @@ more effective marketing campaigns.
 company and its products.
 - Sentiment Analysis: Analyse sentiment in social media conversations to identify positive and negative
 trends.
-- Customer Issue Resolution: Identify and prioritise customer complaints and issues for swift resolution
-, with a main focus on unresolved posts.
+- Customer Issue Resolution: Identify and prioritise customer complaints and issues for swift resolution, with a main focus on unresolved posts.
 - Crises Detection: Implement early warning systems to detect potential crises and take proactive measures
 focusing on unresolved posts.
 
@@ -64,29 +63,29 @@ CustomerID: A unique identifier for each customer.
 8. Transaction Date: The date of the transaction.
 9. Product Purchased: The product purchased (e.g., 'Smartphone', 'Tablet', 'Laptop', 'Smartwatch').
 10. Purchase Amount: The amount spent on the purchase.
-➢ Product Recalled: A boolean indicating whether the purchased product was recalled.
-➢ Competitor: The competitor associated with the transaction, if any.
-➢ CustomerID: A reference to the customer who interacted on social media.
-➢ Interaction Date: The date of the social media interaction.
-➢ Platform: The social media platform where the interaction occurred (e.g., 'Twitter', 'Facebook',
+11. Product Recalled: A boolean indicating whether the purchased product was recalled.
+12. Competitor: The competitor associated with the transaction, if any.
+13. CustomerID: A reference to the customer who interacted on social media.
+14. Interaction Date: The date of the social media interaction.
+15. Platform: The social media platform where the interaction occurred (e.g., 'Twitter', 'Facebook',
 'Instagram').
-➢ Post Type: The type of social media post (e.g., 'Text', 'Image', 'Video', 'Link', 'Story').
-➢ Engagement Likes: The number of likes the post received.
-➢ Engagement Shares: The number of shares or retweets the post received.
-➢ Engagement Comments: The number of comments the post received.
-➢ User Followers: The number of followers the user has.
-➢ Influencer Score: A score representing the influence of the user.
-➢ BrandMention: A boolean indicating whether the post mentioned the brand.
-➢ Competitor Mention: A boolean indicating whether the post mentioned a competitor.
-➢ Sentiment: The sentiment of the post, which can be 'Positive', 'Neutral', or 'Negative'.
-➢ Competitor: The competitor mentioned in the post, if any.
-➢ Crisis Event Time: The date of a crisis event mentioned in a negative post.
-➢ First Response Time: The date of the first response to a negative post.
-➢ Resolution Status: A boolean indicating whether the crisis was resolved.
-➢ NPS Response: The Net Promoter Score (NPS) response associated with the post.
+16. Post Type: The type of social media post (e.g., 'Text', 'Image', 'Video', 'Link', 'Story').
+17. Engagement Likes: The number of likes the post received.
+18. Engagement Shares: The number of shares or retweets the post received.
+19. Engagement Comments: The number of comments the post received 
+20. 20.  User Followers: The number of followers the user has.
+21. Influencer Score: A score representing the influence of the user.
+22. BrandMention: A boolean indicating whether the post mentioned the brand.
+23. Competitor Mention: A boolean indicating whether the post mentioned a competitor.
+24. Sentiment: The sentiment of the post, which can be 'Positive', 'Neutral', or 'Negative'.
+25. Competitor: The competitor mentioned in the post, if any.
+26. Crisis Event Time: The date of a crisis event mentioned in a negative post.
+27. First Response Time: The date of the first response to a negative post.
+28. Resolution Status: A boolean indicating whether the crisis was resolved.
+29.  NPS Response: The Net Promoter Score (NPS) response associated with the post.
 
 # Tools 
-SQL: will be used to efficiently query, analyze efficiently, and analyse
+SQL: will be used to efficiently query, analyse, and analyse
 manage the underlying dataset, enabling us to gain
 insights and make data-driven decisions quickly
 and effectively.
