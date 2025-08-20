@@ -1,9 +1,10 @@
 # Enhancing-Social-Media-Analysis
 ### Enhancing Brand Reputation with cutting-edge Social Media Monitoring
 
-## Table of Content
-1. [Business Introuction](business-introduction)
-2. [Business Proble](business-problem)
+## Table of Contents
+1. [Business Introduction](business-introduction)
+2. [Business Problem](business-problem)
+3. [Reason for the Project](reason-for-the-project)
 
 # Business Introduction
 AfriTech Electronics Ltd. is a growing leader in the global consumer electronics sector, known for its innovative range of smartphones, tablets, and wearable technology.
