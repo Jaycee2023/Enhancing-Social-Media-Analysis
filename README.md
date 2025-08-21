@@ -5,9 +5,12 @@
 1. [Business Introduction](business-introduction)
 2. [Business Problem](business-problem)
 3. [Reason for the Project](reason-for-the-project)
+4. [Aim for The Project](aim-for-the-project)
+5. [Data Description](data-description)
+6. [Tools](tools)
 
 # Business Introduction
-AfriTech Electronics Ltd. is a growing leader in the global consumer electronics sector, known for its innovative range of smartphones, tablets, and wearable technology.
+AfriTech Electronics Ltd. is a leading company in the global consumer electronics sector, recognised for its innovative range of smartphones, tablets, and wearable devices.
 Headquartered in the United States, the company has expanded to a team of 200 dedicated employees and achieved an annual revenue of $2M in 2022.
 This success reflects AfriTech’s strong commitment to:
 1. Delivering high-quality products
