@@ -93,7 +93,7 @@ manage the underlying dataset, enabling us to gain
 insights and make data-driven decisions quickly
 and effectively.
 
-Power BI: will be used to visually analyse and
+Power BI: will be used to analyse visually and
 interpret the dataset, enabling us to create
 interactive dashboards and reports that provide
 meaningful insights and support data-driven
