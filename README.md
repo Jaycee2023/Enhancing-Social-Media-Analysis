@@ -8,6 +8,8 @@
 4. [Aim for The Project](aim-for-the-project)
 5. [Data Description](data-description)
 6. [Tools](tools)
+7. [Project Enhancement](project-enhancement)
+8. [Data Analytics Project Scope](data-analytic-project-scope)
 
 # Business Introduction
 AfriTech Electronics Ltd. is a leading company in the global consumer electronics sector, recognised for its innovative range of smartphones, tablets, and wearable devices.
@@ -88,7 +90,7 @@ CustomerID: A unique identifier for each customer.
 29.  NPS Response: The Net Promoter Score (NPS) response associated with the post.
 
 # Tools 
-SQL: will be used to query, analyse, and efficiently
+SQL will be used to query, analyse, and efficiently
 manage the underlying dataset, enabling us to gain
 insights and make data-driven decisions quickly
 and effectively.
