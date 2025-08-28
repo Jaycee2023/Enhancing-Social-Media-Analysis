@@ -88,7 +88,7 @@ CustomerID: A unique identifier for each customer.
 29.  NPS Response: The Net Promoter Score (NPS) response associated with the post.
 
 # Tools 
-SQL: will be used to efficiently query, analyse, and analyse
+SQL: will be used to query, analyse, and efficiently
 manage the underlying dataset, enabling us to gain
 insights and make data-driven decisions quickly
 and effectively.
@@ -98,6 +98,20 @@ interpret the dataset, enabling us to create
 interactive dashboards and reports that provide
 meaningful insights and support data-driven
 decision-making efficiently.
+
+# Project Enhancement
+Home Page – An interactive landing page with navigation buttons linking to the three reports.
+1. Social Media Monitoring
+2. Sentiment Analysis
+3. Customer Complaints & Crisis Management
+
+# Data Analytics Project Scope
+1. Data Ingesting and Preprocessing: Import Data, Perform data cleaning and transformation using SQL
+2. Data Enrichment and Extraction: Create views to extract unresolved posts
+3. Data Integration: Load cleaned Data into Power BI
+4. Build an Interactive Report: Define KPIs and build a report
+5. Testing and Publishing: Test interactivity and publish the Power BI report to stakeholders
+
 
 
 
